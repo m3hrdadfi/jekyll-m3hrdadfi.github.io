@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EMNLP 2025":
+  url: "https://2025.emnlp.org/"
+  color: "#ed1c25"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EMNLP 2024":
+  url: "https://2024.emnlp.org/"
+  color: "#ed1c25"
 
-"Vision":
-  color: "#009f36"
+"NoDaLiDa 2023":
+  url: "https://2023.fo/"
+  color: "#ed1c25"
+
+"CSICC 2021":
+  url: "https://ieeexplore.ieee.org/servlet/opac?punumber=9420464"
+  color: "#14303e"
+
+"NPL":
+  url: "https://link.springer.com/journal/11063"
+  color: "#002e78"
